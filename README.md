@@ -34,11 +34,9 @@ If you have any questions or comments about the RAG implementation, please open 
 
 Thank you for visiting the RAG code collection!
 
-# Credits
+## Credits
 
-- @THU-KEG
+- [THU-KEG](https://github.com/THU-KEG/KoRC)
 
-## Acknowledgements
 
-- @THU-KEG
 
