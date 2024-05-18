@@ -26,10 +26,19 @@ Contributions to this repository are welcome. Please feel free to submit pull re
 
 ## License
 
-This project is open-sourced under the MIT license. See the LICENSE file for details.
+This project is open-sourced under the Apache License 2.0. See the LICENSE file for details.
 
 ## Contact
 
 If you have any questions or comments about the RAG implementation, please open an issue in this repository.
 
 Thank you for visiting the RAG code collection!
+
+# Credits
+
+- @THU-KEG
+
+## Acknowledgements
+
+- @THU-KEG
+
