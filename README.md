@@ -10,9 +10,13 @@ The RAG model leverages a retriever-generator framework to enhance the quality o
 
 To begin using the RAG model, please follow the link below to access the interactive Colab notebook:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanialPahlavan/RAG/blob/main/RAG.ipynb)
+- RAG 
+  
+  - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanialPahlavan/RAG/blob/main/RAG.ipynb)
 
-This notebook will guide you through the process of setting up the environment, loading the data, and running the model.
+
+- ATLAS
+  -  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanialPahlavan/RAG/blob/main/ATLAS.ipynb)
 
 ## Features
 
