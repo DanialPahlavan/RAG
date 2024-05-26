@@ -6,6 +6,11 @@ Welcome to the code repository for the Retrieval-Augmented Generation (RAG) mode
 
 The RAG model leverages a retriever-generator framework to enhance the quality of generated text. By retrieving relevant documents and using them as context, the RAG model can produce more informative and contextually relevant outputs.
 
+## Document 
+
+- <a href="https://danialpahlavan.github.io/RAG/">Document in Github.io </a>
+
+
 ## Getting Started
 
 To begin using the RAG model, please follow the link below to access the interactive Colab notebook:
