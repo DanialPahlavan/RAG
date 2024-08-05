@@ -21,7 +21,7 @@ To begin using the RAG model, please follow the link below to access the interac
 
 
 - ATLAS
-  -  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanialPahlavan/RAG/blob/main/ATLAS.ipynb)
+  -  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/DanialPahlavan/RAG/blob/main/atlas.ipynb)
 
 ## Features
 
